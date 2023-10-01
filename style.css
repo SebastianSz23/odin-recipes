@@ -1,0 +1,46 @@
+* {
+    background-color: rgb(29,25,25);
+    font-family: 'SF Pro Display', sans-serif;
+    color: white;
+    margin: 20px;
+}
+
+.head-1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+.sub-heading {
+    font-size: 32px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.paragraph-index {
+    font-size: 25px;
+}
+
+.list-items-index {
+    font-size: 25px;
+}
+
+.list-items-index :hover {
+    color: yellow;
+}
+
+.ingredients {
+    list-style-type: circle;
+    font-size: 20px;
+}
+
+.steps {
+    font-size: 20px;
+}
+
+.dish-image {
+    width: 800px;
+    height: auto;
+}
+
